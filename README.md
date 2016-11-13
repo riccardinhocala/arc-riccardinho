@@ -5,16 +5,16 @@ With these two themes, one white and one darker, I solved some problems that hap
 
 How we can see here, the difference is little but relevant:
 This is the standard Arc-Darker Theme:
-![Arc-Darker](https://github.com/Riccardinhoc/arc-riccardinho/blob/master/Arc-Darker%20.png)
+![Arc-Darker](https://github.com/Riccardinhocala/arc-riccardinho/blob/master/Arc-Darker%20.png)
 
 This is the Arc-Darker-Riccardinho Theme:
-![Arc-Darker-Riccardinho](https://github.com/Riccardinhoc/arc-riccardinho/blob/master/Arc-Darker-Riccardinho.png)
+![Arc-Darker-Riccardinho](https://github.com/Riccardinhocala/arc-riccardinho/blob/master/Arc-Darker-Riccardinho.png)
 
 # Install
 
 ```sh
 sudo apt-get install git
-git clone https://github.com/Riccardinhoc/arc-riccardinho
+git clone https://github.com/Riccardinhocala/arc-riccardinho
 cd ~
 cd arc-riccardinho
 unzip Arc-Riccardinho.zip 
@@ -29,6 +29,6 @@ Enjoy!
 
 # Screenshots
 
-![Arc-Darker1](https://github.com/Riccardinhoc/arc-riccardinho/blob/master/Darker.png)
+![Arc-Darker1](https://github.com/Riccardinhocala/arc-riccardinho/blob/master/Darker.png)
 
-![Arc-White](https://github.com/Riccardinhoc/arc-riccardinho/blob/master/White.png)
+![Arc-White](https://github.com/Riccardinhocala/arc-riccardinho/blob/master/White.png)
